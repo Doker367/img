@@ -1,0 +1,16 @@
+# Archivos de credenciales sensibles
+dialogflow-key.json
+*.json
+
+# Archivos de configuración local
+.env
+.env.local
+.env.production
+.env.staging
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
